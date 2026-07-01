@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "4ae1e180-b9c8-4f93-aea4-2e17a7db239a")
+	(paper "A4")
+	(title_block
+		(title "${SHEETNAME}")
+		(date "2026-05-30")
+		(rev "A")
+		(company "KMTUNB")
+		(comment 1 "Design By Surasak M. (Mark)")
+	)
+	(lib_symbols)
+)
